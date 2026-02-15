@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/elliot/Documents/Resume/2027_Grad'
-let g:netrw_dirhist_6='/home/elliot/Pictures/Screenshots'
-let g:netrw_dirhist_5='/home/elliot/Documents'
-let g:netrw_dirhist_4='/home/elliot/Projects/isye3770/hw2'
-let g:netrw_dirhist_3='/home/elliot/.oh-my-posh/themes'
-let g:netrw_dirhist_2='/home/elliot/.oh-my-posh'
-let g:netrw_dirhist_1='/home/elliot/.config/kitty'
